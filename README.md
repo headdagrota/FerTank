@@ -1,5 +1,5 @@
 - 👋 Oi sou @FerTank
-- 👍:Meu emai-l é fernando.russo@escola.pr.gov.br
+- 👍:Meu email De contato é fernando.russo@escola.pr.gov.br
 - 👀 Gosto de aprender
 - 🌱 Quero aprender a programar para ficar rico
 
