@@ -1,8 +1,8 @@
 - 👋 Oi sou @FerTank
 - 👍:Meu email De contato é fernando.russo@escola.pr.gov.br
-- 👀 Gosto de aprender
-- 🌱 Quero aprender a programar para ficar rico
-
+- 👀 Estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+ 
 
 <!---
 FerTank/FerTank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
